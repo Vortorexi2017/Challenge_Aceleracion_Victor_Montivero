@@ -1,7 +1,8 @@
 # AlkemyDisney
 Repositorio para Challenge de Alkemy - Final
+Victor Montivero (Participe de una pre-aceleración, pero recien ahora pude completar el challenge)
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Descargar este repositorio de forma local y abrirlo con intelliJ Idea
 Crear una Base de datos MySql con el nombre "disney"
